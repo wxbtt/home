@@ -9,9 +9,9 @@ lerna-debug.log*
 
 node_modules
 dist
-.vscode/
-public/
-src/
+.vscode
+public
+src
 dist-ssr
 *.local
 .env
